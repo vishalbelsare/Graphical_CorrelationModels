@@ -6,9 +6,9 @@ This repository contains data and code to compute models for correlation matrice
 
 ## Description
 
-This folder contains data and code to accompany the paper on 'A Graphical Framework for Interpretable
+This folder contains data and code to accompany the paper on ['A Graphical Framework for Interpretable
 Correlation Matrix Models for Multivariate
-Regression'. 
+Regression'](https://link.springer.com/article/10.1007/s10260-025-00788-y)
 
 We have included R  scripts to compute the three applications presented in the paper. 
 
